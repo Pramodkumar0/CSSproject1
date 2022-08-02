@@ -1,0 +1,71 @@
+body
+{  background-image:url(./firstscreenshot.png);
+    background-size: cover;
+    position: absolute;
+    top: 70px;
+    left: 100px;
+    width: 100px;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 100px;
+    font-size: 22px;
+}
+
+
+.firstcard
+{  
+    position: absolute;
+    top: 270px;
+    left: 350px;
+    width: 430px;
+    height: 250px;
+    background-color:#EDEDED;
+    color: black;
+    border: 5px solid #EDEDED;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 2px;
+    
+}
+.material-icons
+{   
+    position: absolute;
+    top: 280px;
+    left: 750px;
+
+}
+span{
+    background-color: whitesmoke;
+    color: black;
+    position: absolute;
+    top: 370px;
+    left: 360px;
+    width: 400px;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 25px;
+    
+}
+button
+{
+    background-color: #00A5EC;
+    color: white;
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    top: 450px;
+    left: 630px;
+    border: 2px solid skyblue;
+    border-radius: 8px;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+ 
+}
+
+
+
+
+
